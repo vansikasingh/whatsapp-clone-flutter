@@ -1,6 +1,6 @@
 # Whatsapp Clone
 
-This Application is a clone of Frontend of Whatsapp which is a Messenger used Worldwide to send text messages and voice messages,[12] make voice and video calls, and share images, documents, user locations, and other content.
+This Application is a clone of Frontend of Whatsapp which is a Messenger used Worldwide to send text messages and voice messages, make voice and video calls, and share images, documents, user locations, and other content.
 
 ## Android Screenshots 
 
